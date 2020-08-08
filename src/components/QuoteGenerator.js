@@ -32,6 +32,7 @@ class QuoteGenerator extends Component {
 
     return (
       <div className="main-container">
+        <h1>Random Quote Generator</h1>
         <div className="container">
           <div className="btn">
             <button onClick={this.quoteGenerationHandler}>
