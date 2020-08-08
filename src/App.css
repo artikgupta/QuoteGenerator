@@ -73,6 +73,13 @@ button {
 button:hover {
   background-color: #9899a3;
 }
+.heading {
+  position: absolute;
+  top: 10%;
+  /* color: white; */
+  font-size: 2rem;
+  /* border: 1px solid red; */
+}
 @media only screen and (max-width: 768px) {
   .container {
     padding: 1rem;
